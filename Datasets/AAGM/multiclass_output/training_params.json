@@ -1,0 +1,22 @@
+{
+    "Max_A_Size": 10,
+    "Max_B_Size": 10,
+    "Dynamic_Size": false,
+    "Metod": "tSNE",
+    "ValidRatio": 0.1,
+    "seed": 180,
+    "dir": "D:/IDS/NSL-KDD-Network-Intrusion-Detection/",
+    "Mode": "CNN2",
+    "LoadFromJson": false,
+    "mutual_info": true,
+    "hyper_opt_evals": 20,
+    "epoch": 150,
+    "No_0_MI": false,
+    "autoencoder": false,
+    "cut": null,
+    "output_dir": "D:/IDS/Datasets/AAGM/multiclass_output",
+    "num_classes": 23,
+    "batch_size": 32,
+    "train_steps": 40000,
+    "learning_rate": 0.0001
+}
