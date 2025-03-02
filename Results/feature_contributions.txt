@@ -1,0 +1,23 @@
+Top Positive Contributions:
+Pixel_70: 0.0757
+Pixel_48: 0.0639
+Pixel_154: 0.0582
+Pixel_114: 0.0499
+Pixel_44: 0.0407
+Pixel_112: 0.0381
+Pixel_148: 0.0327
+Pixel_168: 0.0305
+Pixel_66: 0.0247
+Pixel_88: 0.0236
+
+Top Negative Contributions:
+Pixel_71: -0.0757
+Pixel_49: -0.0639
+Pixel_155: -0.0582
+Pixel_115: -0.0499
+Pixel_45: -0.0407
+Pixel_113: -0.0381
+Pixel_149: -0.0327
+Pixel_169: -0.0305
+Pixel_67: -0.0247
+Pixel_89: -0.0236
